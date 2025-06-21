@@ -1,0 +1,17 @@
+{
+    "authenticatedUserBirthdate": "authenticatedUserBirthdate",
+    "authenticatedUserDescription": "authenticatedUserDescription",
+    "authenticatedUserGender": "authenticatedUserGender",
+    "validateDisplayNameForNewUser": "validateDisplayNameForNewUser",
+    "validateDisplayNameForExistingUser": "validateDisplayNameForExistingUser",
+    "authenticatedUserSetDisplayName": "authenticatedUserSetDisplayName",
+    "userInfo": "userInfo",
+    "authenticatedUserInfo": "authenticatedUserInfo",
+    "authenticatedUserAgeBracket": "authenticatedUserAgeBracket",
+    "authenticatedUserCountryCode": "authenticatedUserCountryCode",
+    "authenticatedUserRoles": "authenticatedUserRoles",
+    "usersInfoFromNames": "usersInfoFromNames",
+    "usersInfoFromIds": "usersInfoFromIds",
+    "usernameHistory": "usernameHistory",
+    "userSearch": "userSearch"
+}

@@ -1,0 +1,6 @@
+{
+    "listRestrictions": "listRestrictions",
+    "restrictionForUser": "restrictionForUser",
+    "updateRestrictionsForUser": "updateRestrictionsForUser",
+    "listRestrictionLogs": "listRestrictionLogs"
+}

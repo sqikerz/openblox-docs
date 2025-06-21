@@ -1,0 +1,22 @@
+{
+    "assetIdsToCatalogCategoryIds": "assetIdsToCatalogCategoryIds",
+    "assetIdsToCatalogSubCategoryIds": "assetIdsToCatalogSubCategoryIds",
+    "catalogCategories": "catalogCategories",
+    "catalogSubCategories": "catalogSubCategories",
+    "bundlesAssetIsIn": "bundlesAssetIsIn",
+    "bundleInfo": "bundleInfo",
+    "recommendationsForBundle": "recommendationsForBundle",
+    "bundlesInfo": "bundlesInfo",
+    "bundlesOwnedByUser": "bundlesOwnedByUser",
+    "bundlesOfTypeOwnedByUser": "bundlesOfTypeOwnedByUser",
+    "assetFavoritesCount": "assetFavoritesCount",
+    "bundleFavoritesCount": "bundleFavoritesCount",
+    "authedUserRemoveAssetFavorite": "authedUserRemoveAssetFavorite",
+    "authedUserGetAssetFavorite": "authedUserGetAssetFavorite",
+    "authedUserCreateAssetFavorite": "authedUserCreateAssetFavorite",
+    "authedUserRemoveBundleFavorite": "authedUserRemoveBundleFavorite",
+    "authedUserGetBundleFavorite": "authedUserGetBundleFavorite",
+    "authedUserCreateBundleFavorite": "authedUserCreateBundleFavorite",
+    "authedUserFavoritedBundlesOfType": "authedUserFavoritedBundlesOfType",
+    "catalogBatchInfo": "catalogBatchInfo"
+}

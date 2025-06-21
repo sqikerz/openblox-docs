@@ -1,0 +1,11 @@
+{
+    "groupInfo": "groupInfo",
+    "groupMembers": "groupMembers",
+    "groupRoles": "groupRoles",
+    "groupRole": "groupRole",
+    "groupShout": "groupShout",
+    "groupJoinRequests": "groupJoinRequests",
+    "acceptGroupJoinRequest": "acceptGroupJoinRequest",
+    "declineGroupJoinRequest": "declineGroupJoinRequest",
+    "updateGroupMemberRole": "updateGroupMemberRole"
+}

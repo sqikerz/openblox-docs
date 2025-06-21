@@ -1,0 +1,20 @@
+{
+    "badges": "ClassicBadgesApi",
+    "catalog": "ClassicCatalogApi",
+    "develop": "ClassicDevelopApi",
+    "developerProducts": "ClassicDeveloperProductsApi",
+    "economy": "ClassicEconomyApi",
+    "friends": "ClassicFriendsApi",
+    "gamePasses": "ClassicGamePassesApi",
+    "games": "ClassicGamesApi",
+    "groups": "ClassicGroupsApi",
+    "organizations": "ClassicOrganizationsApi",
+    "premiumFeatures": "ClassicPremiumFeaturesApi",
+    "shareLinks": "ClassicShareLinksApi",
+    "subscriptions": "ClassicSubscriptionsApi",
+    "talent": "ClassicTalentApi",
+    "thumbnails": "ClassicThumbnailsApi",
+    "universes": "ClassicUniversesApi",
+    "users": "ClassicUsersApi",
+    "virtualEvents": "ClassicVirtualEventsApi"
+}

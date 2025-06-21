@@ -1,0 +1,21 @@
+{
+    "assetsThumbnails": "assetsThumbnails",
+    "asset3dThumbnail": "asset3dThumbnail",
+    "assetAnimatedThumbnail": "assetAnimatedThumbnail",
+    "badgesThumbnails": "badgesThumbnails",
+    "bundlesThumbnails": "bundlesThumbnails",
+    "developerProductsThumbnails": "developerProductsThumbnails",
+    "gamePassesThumbnails": "gamePassesThumbnails",
+    "gameThumbnailsFromIds": "gameThumbnailsFromIds",
+    "gamesThumbnails": "gamesThumbnails",
+    "groupsEmblems": "groupsEmblems",
+    "thumbnailsMetadata": "thumbnailsMetadata",
+    "placesIcons": "placesIcons",
+    "avatarsFullThumbnails": "avatarsFullThumbnails",
+    "avatarsBustsThumbnails": "avatarsBustsThumbnails",
+    "avatarsHeadshotsThumbnails": "avatarsHeadshotsThumbnails",
+    "avatar3dThumbnail": "avatar3dThumbnail",
+    "outfit3dThumbnail": "outfit3dThumbnail",
+    "outfitsThumbnails": "outfitsThumbnails",
+    "batchThumbnails": "batchThumbnails"
+}

@@ -1,0 +1,5 @@
+{
+    "executeLuau": "executeLuau",
+    "luauExecutionTask": "luauExecutionTask",
+    "listLuauExecutionLogs": "listLuauExecutionLogs"
+}

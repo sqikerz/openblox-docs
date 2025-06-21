@@ -1,0 +1,8 @@
+{
+    "listOrderedDatastoreEntries": "listOrderedDatastoreEntries",
+    "createOrderedDataStoreEntry": "createOrderedDataStoreEntry",
+    "orderedDataStoreEntry": "orderedDataStoreEntry",
+    "deleteOrderedDataStoreEntry": "deleteOrderedDataStoreEntry",
+    "updateOrderedDataStoreEntry": "updateOrderedDataStoreEntry",
+    "incrementOrderedDataStoreEntry": "incrementOrderedDataStoreEntry"
+}

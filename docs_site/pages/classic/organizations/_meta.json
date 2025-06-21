@@ -1,0 +1,18 @@
+{
+    "orgInfoForGroup": "orgInfoForGroup",
+    "orgRoles": "orgRoles",
+    "orgRolePermissions": "orgRolePermissions",
+    "orgRoleMetadata": "orgRoleMetadata",
+    "overwriteOrgRolePermissions": "overwriteOrgRolePermissions",
+    "orgRoleMembers": "orgRoleMembers",
+    "orgMembers": "orgMembers",
+    "orgInvitations": "orgInvitations",
+    "createOrgInvitation": "createOrgInvitation",
+    "removeOrgInvitation": "removeOrgInvitation",
+    "orgMemberPermissions": "orgMemberPermissions",
+    "giveRoleToOrgMember": "giveRoleToOrgMember",
+    "removeRoleFromOrgMember": "removeRoleFromOrgMember",
+    "createOrgRole": "createOrgRole",
+    "updateOrgRole": "updateOrgRole",
+    "deleteOrgRole": "deleteOrgRole"
+}

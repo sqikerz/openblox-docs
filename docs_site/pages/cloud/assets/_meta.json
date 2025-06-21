@@ -1,0 +1,8 @@
+{
+    "assetInfo": "assetInfo",
+    "createAsset": "createAsset",
+    "updateAsset": "updateAsset",
+    "assetOfVersion": "assetOfVersion",
+    "assetVersions": "assetVersions",
+    "rollbackAssetVersion": "rollbackAssetVersion"
+}

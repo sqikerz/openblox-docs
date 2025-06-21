@@ -1,0 +1,23 @@
+{
+    "assets": "AssetsApi",
+    "creatorStore": "CreatorStoreApi",
+    "engine": "EngineApi",
+    "experiences": "ExperiencesApi",
+    "groups": "GroupsApi",
+    "inventory": "InventoryApi",
+    "legacyBadges": "LegacyBadgesApi",
+    "legacyDevelop": "LegacyDevelopApi",
+    "legacyFollowings": "LegacyFollowingsApi",
+    "legacyGroups": "LegacyGroupsApi",
+    "luauExecution": "LuauExecutionApi",
+    "memoryStores": "MemoryStoresApi",
+    "messaging": "MessagingApi",
+    "oauth": "OauthApi",
+    "orderedDataStores_V1": "OrderedDataStoresApi_V1",
+    "orderedDataStores_V2": "OrderedDataStoresApi_V2",
+    "standardDataStores_V1": "StandardDataStoresApi_V1",
+    "standardDataStores_V2": "StandardDataStoresApi_V2",
+    "subscriptions": "SubscriptionsApi",
+    "userRestrictions": "UserRestrictionsApi",
+    "users": "UsersApi"
+}

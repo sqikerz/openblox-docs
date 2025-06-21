@@ -1,0 +1,6 @@
+{
+    "universeFollowingsForUser": "universeFollowingsForUser",
+    "universeFollowingStatusForUser": "universeFollowingStatusForUser",
+    "authedUserUnfollowUniverse": "authedUserUnfollowUniverse",
+    "authedUserFollowUniverse": "authedUserFollowUniverse"
+}

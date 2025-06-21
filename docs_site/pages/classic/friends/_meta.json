@@ -1,0 +1,23 @@
+{
+    "friendsMetadata": "friendsMetadata",
+    "authenticatedUserFriendsCount": "authenticatedUserFriendsCount",
+    "authenticatedUserFriendRequests": "authenticatedUserFriendRequests",
+    "authenticatedUserFriendRequestsCount": "authenticatedUserFriendRequestsCount",
+    "friendsList": "friendsList",
+    "friendsCount": "friendsCount",
+    "findFriends": "findFriends",
+    "inactiveFriends": "inactiveFriends",
+    "onlineFriends": "onlineFriends",
+    "friendsSearch": "friendsSearch",
+    "friendsStatuses": "friendsStatuses",
+    "authenticatedUserDeclineAllFriendRequests": "authenticatedUserDeclineAllFriendRequests",
+    "authenticatedUserAcceptFriendRequest": "authenticatedUserAcceptFriendRequest",
+    "authenticatedUserDeclineFriendRequest": "authenticatedUserDeclineFriendRequest",
+    "authenticatedUserRequestFriendship": "authenticatedUserRequestFriendship",
+    "authenticatedUserUnfriend": "authenticatedUserUnfriend",
+    "userFollowers": "userFollowers",
+    "userFollowersCount": "userFollowersCount",
+    "userFollowings": "userFollowings",
+    "userFollowingsCount": "userFollowingsCount",
+    "authenticatedUserFollowingsExist": "authenticatedUserFollowingsExist"
+}

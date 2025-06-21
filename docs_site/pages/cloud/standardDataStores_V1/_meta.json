@@ -1,0 +1,10 @@
+{
+    "listStandardDatastores": "listStandardDatastores",
+    "standardDatastoreKeys": "standardDatastoreKeys",
+    "standardDatastoreEntry": "standardDatastoreEntry",
+    "setStandardDatastoreEntry": "setStandardDatastoreEntry",
+    "deleteStandardDatastoreEntry": "deleteStandardDatastoreEntry",
+    "incrementStandardDatastoreEntry": "incrementStandardDatastoreEntry",
+    "standardDatastoreEntryOfVersion": "standardDatastoreEntryOfVersion",
+    "listStandardDatastoreEntryVersions": "listStandardDatastoreEntryVersions"
+}

@@ -1,0 +1,15 @@
+{
+    "assetResaleData": "assetResaleData",
+    "assetResellers": "assetResellers",
+    "authedUserAssetResellableCopies": "authedUserAssetResellableCopies",
+    "assetResaleTaxRate": "assetResaleTaxRate",
+    "authedUserDevExCashOutInfo": "authedUserDevExCashOutInfo",
+    "groupCanAddFunds": "groupCanAddFunds",
+    "groupLatestAddedFundsData": "groupLatestAddedFundsData",
+    "groupCurrency": "groupCurrency",
+    "authedUserCurrency": "authedUserCurrency",
+    "groupRevenueSummary": "groupRevenueSummary",
+    "groupPayoutsUserEligibility": "groupPayoutsUserEligibility",
+    "groupTransactionHistory": "groupTransactionHistory",
+    "authedUserEconomyMetadata": "authedUserEconomyMetadata"
+}

@@ -1,0 +1,10 @@
+{
+    "eventInfo": "eventInfo",
+    "createEvent": "createEvent",
+    "updateEvent": "updateEvent",
+    "publishEvent": "publishEvent",
+    "eventRsvps": "eventRsvps",
+    "eventRsvpCounters": "eventRsvpCounters",
+    "authenticatedUserEventPermissionsForHost": "authenticatedUserEventPermissionsForHost",
+    "authenticatedUserEvents": "authenticatedUserEvents"
+}

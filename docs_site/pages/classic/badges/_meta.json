@@ -1,0 +1,12 @@
+{
+    "badgeInfo": "badgeInfo",
+    "updateBadge": "updateBadge",
+    "badgesMetadata": "badgesMetadata",
+    "badgesForUniverse": "badgesForUniverse",
+    "freeBadgesLeftForUniverse": "freeBadgesLeftForUniverse",
+    "userBadges": "userBadges",
+    "badgeAwardedDateForUser": "badgeAwardedDateForUser",
+    "badgesAwardedDatesForUser": "badgesAwardedDatesForUser",
+    "removeBadgeFromUser": "removeBadgeFromUser",
+    "authenticatedUserRemoveBadge": "authenticatedUserRemoveBadge"
+}

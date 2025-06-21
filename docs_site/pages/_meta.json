@@ -1,0 +1,18 @@
+{
+    "guides": {
+        "type": "page",
+        "title": "Guides"
+    },
+    "cloud": {
+        "type": "page",
+        "title": "Cloud APIs"
+    },
+    "classic": {
+        "type": "page",
+        "title": "Classic APIs"
+    },
+    "index": {
+        "type": "page",
+        "display": "hidden"
+    }
+}

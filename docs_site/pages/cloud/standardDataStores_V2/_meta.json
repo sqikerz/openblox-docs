@@ -1,0 +1,11 @@
+{
+    "listStandardDataStores": "listStandardDataStores",
+    "createStandardDataStoreSnapshot": "createStandardDataStoreSnapshot",
+    "listStandardDataStoreEntries": "listStandardDataStoreEntries",
+    "createStandardDataStoreEntry": "createStandardDataStoreEntry",
+    "standardDataStoreEntry": "standardDataStoreEntry",
+    "deleteStandardDataStoreEntry": "deleteStandardDataStoreEntry",
+    "updateStandardDataStoreEntry": "updateStandardDataStoreEntry",
+    "incrementStandardDatastoreEntry": "incrementStandardDatastoreEntry",
+    "listStandardDataStoreEntryRevisions": "listStandardDataStoreEntryRevisions"
+}
